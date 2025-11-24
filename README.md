@@ -73,7 +73,20 @@
 
 ### 🐍 Contribution Snake
 
-<!-- For this to show your own snake, set up the GitHub Action that generates this SVG in your repo -->
-<img src="https://github.com/NotChandraPrakash/NotChandraPrakash/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- Make sure you've added the GitHub Action (Platane/snk) to generate these files in the `output` branch.
+     See .github/workflows/snake.yml in the same repo (example provided separately). -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/NotChandraPrakash/NotChandraPrakash/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/NotChandraPrakash/NotChandraPrakash/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NotChandraPrakash/NotChandraPrakash/output/github-snake.svg" />
+</picture>
+
+---
+
+<!-- Optional: contribution calendar (animated via GitHub) -->
+![Contribution activity](https://activity-graph.herokuapp.com/graph?username=NotChandraPrakash&theme=dracula)
 
 ---
