@@ -17,19 +17,19 @@
 - 👯 I’m looking to collaborate on **RoadReadyEV** & **Java-based projects**
 - 🤝 I’m looking for help with **advanced Java & scalable backend systems**
 - 💬 Ask me about **Cyber Security | Cloud Computing | Java | Minecraft Mods**
-- 📫 How to reach me: **chandra.prakash27088@gmail.com**
+- 📫 How to reach me: **Not Yet**
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotChandraPrakash&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotChandraPrakash&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamerxd01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamerxd01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NotChandraPrakash&theme=dracula&hide_border=false" height="160" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=gamerxd01&theme=dracula&hide_border=false" height="160" alt="streak graph" />
 </div>
 
 ---
@@ -58,7 +58,7 @@
 ### 🤝 Connect with Me
 
 <div align="left">
-  <a href="https://github.com/NotChandraPrakash" target="_blank">
+  <a href="https://github.com/gamerxd01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="" target="_blank">
