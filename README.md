@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gamerxd01&theme=dracula&hide_border=false" height="160" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=gamerxd01&theme=dracula&hide_border=false" height="160" alt="streak graph" />
 </div>
 
 ---
